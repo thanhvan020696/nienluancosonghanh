@@ -1,0 +1,31 @@
+
+
+#text2{
+    height: 450px;
+}
+#text2 h2{
+ text-align: center;
+   border-bottom: 4px double #4E4A3C;
+   font-family:Algerian;
+   color: #4E4A3C;
+   font-size: 50px;
+   text-align: center;
+   width: 350px;
+   margin: 0 auto;
+
+}
+#text2 p{
+	
+    font-family:
+    "Arial Rounded MT Bold","Arial";
+    font-size: 19px;
+    color: #4E4A3C;
+    text-align: center;
+    line-height: 1,9;
+    padding-top: 25px;
+    width: 800px;
+    margin: 0 auto;
+
+  
+
+}

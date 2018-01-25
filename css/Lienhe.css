@@ -1,0 +1,73 @@
+
+#container{
+	
+	
+	height: 900spx;
+	width: 100%;
+	background-color:#E4DBBF;
+	
+}
+#lienhe{
+	
+	
+}
+
+#content{
+	height: 580px;
+	
+}
+#lienhe1{
+	margin-top:150px;
+	
+}
+#lienhe3{
+	margin-top: 150px;
+	}
+#lienhe2{
+	margin-top: 150px;
+	
+}
+
+#lienhe1 > h2{
+	text-align: center;
+    font-family :Algerian;
+   color: #4E4A3C;
+}
+#lienhe1 >p
+{   margin-top:30px;
+	text-align: center;
+	color: #29241E;
+    width: 350px;
+    margin: 0 auto;
+    font-family:  "Modern""Bodoni MT Black" "Agency FB" "Batang";
+    font-size: 19px;
+}
+#lienhe2 > h2{
+	text-align: center;
+    font-family :Algerian;
+   color: #4E4A3C;
+}
+#lienhe2 >table
+{  
+	text-align: left;
+	color: #29241E;
+   margin-left: 30px;
+    font-family:  "Modern""Bodoni MT Black" "Agency FB" "Batang";
+    font-size: 19px;
+}
+#lienhe3 > h2{
+
+	text-align: center;
+    font-family :Algerian;
+   color: #4E4A3C;
+}
+#lienhe3 >p
+{
+	text-align: center;
+	color:#29241E;
+	width: 350px;
+	margin: 0 auto;
+   
+    font-family:  "Modern""Bodoni MT Black" "Agency FB" "Batang";
+    font-size: 19px;
+}
